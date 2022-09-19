@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccessModifier/AccessModifier.iml" filepath="$PROJECT_DIR$/AccessModifier/AccessModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUIApp/GUIApp.iml" filepath="$PROJECT_DIR$/GUIApp/GUIApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloJava/HelloJava.iml" filepath="$PROJECT_DIR$/HelloJava/HelloJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputOutput/InputOutput.iml" filepath="$PROJECT_DIR$/InputOutput/InputOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceImplement/InterfaceImplement.iml" filepath="$PROJECT_DIR$/InterfaceImplement/InterfaceImplement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaDicoding.iml" filepath="$PROJECT_DIR$/.idea/JavaDicoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object/Object.iml" filepath="$PROJECT_DIR$/Object/Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objek/Objek.iml" filepath="$PROJECT_DIR$/Objek/Objek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operator/Operator.iml" filepath="$PROJECT_DIR$/Operator/Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Percabangan/Percabangan.iml" filepath="$PROJECT_DIR$/Percabangan/Percabangan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Perulangan/Perulangan.iml" filepath="$PROJECT_DIR$/Perulangan/Perulangan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PropertiDanMetode/PropertiDanMetode.iml" filepath="$PROJECT_DIR$/PropertiDanMetode/PropertiDanMetode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrukturDasar/StrukturDasar.iml" filepath="$PROJECT_DIR$/StrukturDasar/StrukturDasar.iml" />
+    </modules>
+  </component>
+</project>
